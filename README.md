@@ -1,4 +1,4 @@
-AI-CHATBOT-WITH-NLP
+# AI-CHATBOT-WITH-NLP
 Developed an NLP Chatbot using Python Libraries (TensorFlow, Keras):
 This project involved building and training a Machine Learning model for intent classification using popular Python libraries like TensorFlow and Keras.
 Natural Language Processing (NLP) techniques like tokenization and lemmatization were employed for data pre-processing and feature engineering (bag-of-words). 
